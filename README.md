@@ -34,5 +34,10 @@ To set up SpyNote on your system, follow these steps:
 
 1. **Clone the Repository**: Start by cloning the SpyNote repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/spynote.git
+   git clone https://github.com/Anonymous1Devil/Spynote-X-linux.git
+   
    cd spynote
+   
+   sudo python3 requirement.py
+   
+   sudo python3 Spynote_ready.py 
